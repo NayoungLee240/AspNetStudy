@@ -96,3 +96,4 @@ C:\projects\Study\AspNetCore\AspNetCore\obj\Debug\net10.0\refint\AspNetCore.dll
 C:\projects\Study\AspNetCore\AspNetCore\obj\Debug\net10.0\AspNetCore.pdb
 C:\projects\Study\AspNetCore\AspNetCore\obj\Debug\net10.0\AspNetCore.genruntimeconfig.cache
 C:\projects\Study\AspNetCore\AspNetCore\obj\Debug\net10.0\ref\AspNetCore.dll
+C:\projects\Study\AspNetCore\AspNetCore\obj\Debug\net10.0\AspNetCore.sourcelink.json
